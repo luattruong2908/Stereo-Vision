@@ -9,6 +9,7 @@ P/s: Nhớ xem và sửa lại các đường dẫn file.
 
 Xem video hướng dẫn thuật toán tại: "https://www.youtube.com/watch?v=hhwcDDtlVR0"
 
+
 <p align="center">
   <img src="https://github.com/luattruong2908/Stereo-Vision/blob/main/depth_estimation.png?raw=true" alt="Basic Stereo Camera"/>
 </p>
