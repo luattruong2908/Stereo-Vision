@@ -1,11 +1,4 @@
-# Stereo-Vision
-DEAPTH ESTIMATION USING STEREO CAMERA
-
-<p align="center">
-  <img src="https://github.com/luattruong2908/Stereo-Vision/blob/main/camera_used.png?raw=true" alt="Basic Stereo Camera"/>
-  <img src="https://github.com/luattruong2908/Stereo-Vision/blob/main/disparity_map.png?raw=true" alt="Basic Stereo Camera"/>
-  <img src="https://github.com/luattruong2908/Stereo-Vision/blob/main/depth_estimation.png?raw=true" alt="Basic Stereo Camera"/>
-</p>
+# STEREO-VISION (DEAPTH ESTIMATION USING STEREO CAMERA)
 
 Các bước để chạy:
  1. Chạy Take_images.py để chụp ảnh bàn cờ (nếu dùng ảnh có sẵn thì bỏ qua).
@@ -15,3 +8,11 @@ Các bước để chạy:
 P/s: Nhớ xem và sửa lại các đường dẫn file.
 
 Xem video hướng dẫn thuật toán tại: "https://www.youtube.com/watch?v=hhwcDDtlVR0"
+
+<p align="center">
+  <img src="https://github.com/luattruong2908/Stereo-Vision/blob/main/camera_used.png?raw=true" alt="Basic Stereo Camera"/>
+  
+  <img src="https://github.com/luattruong2908/Stereo-Vision/blob/main/disparity_map.png?raw=true" alt="Basic Stereo Camera"/>
+  
+  <img src="https://github.com/luattruong2908/Stereo-Vision/blob/main/depth_estimation.png?raw=true" alt="Basic Stereo Camera"/>
+</p>
