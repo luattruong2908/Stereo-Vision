@@ -3,6 +3,8 @@ DEAPTH ESTIMATION USING STEREO CAMERA
 
 <p align="center">
   <img src="https://github.com/luattruong2908/Stereo-Vision/blob/main/camera_used.png?raw=true" alt="Basic Stereo Camera"/>
+  <img src="https://github.com/luattruong2908/Stereo-Vision/blob/main/disparity_map.png?raw=true" alt="Basic Stereo Camera"/>
+  <img src="https://github.com/luattruong2908/Stereo-Vision/blob/main/depth_estimation.png?raw=true" alt="Basic Stereo Camera"/>
 </p>
 
 Các bước để chạy:
