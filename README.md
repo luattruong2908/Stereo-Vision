@@ -1,5 +1,6 @@
 # Stereo-Vision
 DEAPTH ESTIMATION USING STEREO CAMERA
+![alt text](https://github.com/luattruong2908/Stereo-Vision/blob/main/camera_used.png?raw=true)
 
 Các bước để chạy:
  1. Chạy Take_images.py để chụp ảnh bàn cờ (nếu dùng ảnh có sẵn thì bỏ qua).
