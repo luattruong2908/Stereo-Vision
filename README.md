@@ -1,4 +1,4 @@
-# STEREO-VISION (DEAPTH ESTIMATION USING STEREO CAMERA)
+# STEREO-VISION (DEPTH ESTIMATION USING STEREO CAMERA)
 
 Các bước để chạy:
  1. Chạy Take_images.py để chụp ảnh bàn cờ (nếu dùng ảnh có sẵn thì bỏ qua).
